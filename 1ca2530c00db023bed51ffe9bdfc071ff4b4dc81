@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1564718340 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_xiaomi_beryllium\nnonce 1564718340-2802BC40C1B3978E87F0F4510A368F89EE220DD9\n\n0000000000000000000000000000000000000000 1ca2530c00db023bed51ffe9bdfc071ff4b4dc81 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl1DtQQACgkQ8iL05i7N\nJTH05gf/SMG/RySDuh2ocqUGEx3frb+50dFc/SOplQKLLJs7PF50V4LTZQCJRGHs\ni2gItdobnu0qiei5cYMwzfkO5MfF+nDKlwGfcobx8xFoIBgsl9sxj68qOUtPf5Bc\nyVWVF8Phqcy+kamH9tQIvGRxcUnJD+kzIfL8qbyb08hGyibdTZ4f74Q85OdZAEbl\nWlSmlUyqlH0TWAM0PUeeLsrk8wMPW87YqhGH/pH+ghpMSHYmWZ9dhcomMaHB6hHm\nU8g9i626adl2uP1NgoxJjzj9hNxt18nwSaoynM99pY3S4VfNqA1L72XF8rLTKhzb\nn/rZN157pFhivSdQV8xAwurgM4c2FA\u003d\u003d\n\u003dD35p\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
