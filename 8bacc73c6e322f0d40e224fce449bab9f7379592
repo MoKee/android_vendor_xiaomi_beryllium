@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1573545191 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_xiaomi_beryllium\nnonce 1573545191-B5B6DD329F68B4A14FD81F9FBE9C4A62FB71D42E\n\n0000000000000000000000000000000000000000 8bacc73c6e322f0d40e224fce449bab9f7379592 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl3KZOcACgkQ8iL05i7N\nJTHesgf+Nd7PVmF0Qa6S2leVPrw3FtB6UedPfA+6EO3Dbyr/gZNkhHU4scOpVUpB\n3KmExCTOEDcMdXGGUcFii3fZrFoUk9msq/iuc9OpJXN59/eiDDv31vEipfOtYm5j\nEQ//Y4oThztxib2+pjFLXbfHWRe1bEUuS1VqQl+gNB6TQy1/L2fHBsRYO1KJ7v2c\nT0Vcayu21mdKObJkc+2qxae5B4FQe8TQ8qpggNxnY+oKrtB9fdfijmtet9pqjfUv\nL14dVmktOQsivq4QCZkTm4sy/p12ObD/t0TzTSmJD+9EDY6hVrp4aqX+orHq9nJh\njMfZO4lECjJvddlidWqW5tR699cZdg\u003d\u003d\n\u003dI/NF\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
